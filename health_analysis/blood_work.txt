@@ -1,0 +1,44 @@
+BLOOD WORK REPORT
+Sample Patient: Mr. Arjun Sharma
+Age/Sex: 29 years / Male
+Location: Delhi, India
+Sample Date: 22-Aug-2026
+
+COMPLETE BLOOD COUNT (CBC)
+Hemoglobin: 14.2 g/dL
+RBC Count: 4.85 million/µL
+WBC Count: 7,200 cells/µL
+Platelet Count: 2.65 lakh/µL
+Hematocrit (PCV): 43.1 %
+MCV: 88.9 fL
+MCH: 29.3 pg
+MCHC: 33.0 g/dL
+RDW: 13.2 %
+
+DIFFERENTIAL LEUKOCYTE COUNT
+Neutrophils: 58 %
+Lymphocytes: 34 %
+Monocytes: 5 %
+Eosinophils: 3 %
+Basophils: 0 %
+
+BLOOD CHEMISTRY
+Fasting Blood Glucose: 92 mg/dL
+HbA1c: 5.3 %
+Total Cholesterol: 178 mg/dL
+HDL Cholesterol: 48 mg/dL
+LDL Cholesterol: 108 mg/dL
+Triglycerides: 112 mg/dL
+
+LIVER FUNCTION
+Total Bilirubin: 0.8 mg/dL
+AST (SGOT): 24 U/L
+ALT (SGPT): 27 U/L
+Alkaline Phosphatase: 82 U/L
+Total Protein: 7.1 g/dL
+Albumin: 4.5 g/dL
+
+KIDNEY FUNCTION
+Blood Urea: 26 mg/dL
+Serum Creatinine: 0.9 mg/dL
+Uric Acid: 5.4 mg/dL

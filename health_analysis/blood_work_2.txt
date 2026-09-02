@@ -1,0 +1,46 @@
+BLOOD WORK REPORT
+Sample Patient: Ms. Priya Verma
+Age/Sex: 34 years / Female
+Location: Lucknow, Uttar Pradesh, India
+Sample Date: 22-Aug-2026
+
+COMPLETE BLOOD COUNT (CBC)
+Hemoglobin: 11.8 g/dL
+RBC Count: 4.12 million/µL
+WBC Count: 8,100 cells/µL
+Platelet Count: 3.12 lakh/µL
+Hematocrit (PCV): 36.5 %
+MCV: 88.6 fL
+MCH: 28.6 pg
+MCHC: 32.3 g/dL
+RDW: 14.1 %
+
+DIFFERENTIAL LEUKOCYTE COUNT
+Neutrophils: 61 %
+Lymphocytes: 31 %
+Monocytes: 5 %
+Eosinophils: 3 %
+Basophils: 0 %
+
+BLOOD CHEMISTRY
+Fasting Blood Glucose: 101 mg/dL
+HbA1c: 5.6 %
+Total Cholesterol: 194 mg/dL
+HDL Cholesterol: 52 mg/dL
+LDL Cholesterol: 119 mg/dL
+Triglycerides: 116 mg/dL
+
+LIVER FUNCTION
+Total Bilirubin: 0.7 mg/dL
+AST (SGOT): 22 U/L
+ALT (SGPT): 25 U/L
+Alkaline Phosphatase: 76 U/L
+Total Protein: 7.0 g/dL
+Albumin: 4.3 g/dL
+
+KIDNEY FUNCTION
+Blood Urea: 24 mg/dL
+Serum Creatinine: 0.8 mg/dL
+Uric Acid: 4.8 mg/dL
+
+Note: This is a fictional sample blood-work report created for testing/demo purposes. It is not a real medical record and should not be used for diagnosis or treatment.

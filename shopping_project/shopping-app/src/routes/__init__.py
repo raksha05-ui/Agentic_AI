@@ -1,0 +1,1 @@
+# This file initializes the routes package, allowing for the import of route handlers.
