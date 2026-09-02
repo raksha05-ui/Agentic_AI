@@ -5,6 +5,7 @@ Run with:
 """
 import streamlit as st
 from src.utils.database import get_connection
+from src.services.product_assistant import ProductAssistant
 import sqlite3
 import subprocess
 from pathlib import Path
@@ -13,6 +14,13 @@ from pathlib import Path
 def get_products():
     conn = get_connection()
     rows = conn.execute("SELECT * FROM products ORDER BY id").fetchall()
+    conn.close()
+    return [dict(r) for r in rows]
+
+
+def get_reviews():
+    conn = get_connection()
+    rows = conn.execute("SELECT * FROM reviews ORDER BY id").fetchall()
     conn.close()
     return [dict(r) for r in rows]
 
@@ -84,6 +92,16 @@ def main():
         st.table(products)
     else:
         st.write("No products yet.")
+
+    st.header("Product Assistant")
+    if products:
+        reviews = get_reviews()
+        assistant = ProductAssistant(products, reviews)
+        question = st.text_input("Ask about products or reviews", placeholder="Example: How do customers feel about Laptop?")
+        if question:
+            st.write(assistant.answer(question))
+    else:
+        st.info("Add products first to enable the assistant.")
 
     with st.expander("Add product"):
         name = st.text_input("Name")
