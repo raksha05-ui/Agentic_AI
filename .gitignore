@@ -8,6 +8,12 @@ wheels/
 # Virtual environments
 .venv
 
+# Environment files
 .env
+**/.env
+.env.*
+**/.env.*
+
+# Local docs / notices
 ENV_SETUP_GUIDE.md
 SECURITY_NOTICE.md
