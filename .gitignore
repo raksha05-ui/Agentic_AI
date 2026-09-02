@@ -9,6 +9,3 @@ wheels/
 .venv
 
 .env
-ENV_SETUP_GUIDE.md
-SECURITY_NOTICE.md
-uv.lock
