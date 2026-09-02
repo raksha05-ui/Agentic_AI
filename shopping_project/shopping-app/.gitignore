@@ -13,3 +13,6 @@ data/
 .vscode/
 *.swp
 *.swo
+run_db_test.py
+verify_db.py
+
